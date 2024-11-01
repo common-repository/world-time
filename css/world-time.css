@@ -1,0 +1,8 @@
+.world-time-container{
+	width:100%;
+	text-align:center;
+}
+
+.world-time-container span[class^=world-time-]{
+	padding:5px 10px;
+}
